@@ -1,0 +1,3 @@
+rootProject.name = 'ak_quack_duck_1086'
+
+include ':app'
